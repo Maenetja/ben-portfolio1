@@ -1,0 +1,29 @@
+address {
+  text-align: right;
+}
+h1 {
+  text-align: left;
+  font-size:25px;
+}
+body {
+  text-align: left;
+  font-style:normal;
+  font-size:15px;
+  margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+h2 {
+  text-align :left;
+}
+p class {
+  text-align :right;
+}
+footer {
+  font-size : 10px;
+}
+html {
+  border-style:ridge;
+
+}

@@ -1,0 +1,84 @@
+h1 {
+	color : black;
+	font-family:'Raleway',sans-serif;
+	text-align: center;
+	margin: 0;
+  padding: 20px 0;
+text-decoration: underline;
+}
+header {
+	text-align: center;
+}
+
+ul {
+	 	text-decoration-style :dotted;
+text-decoration-color: grey;
+font-family:'Raleway',sans-serif ;
+font-size:20px;
+
+}
+
+p { color: #f8f8f8;
+	font-family: 'Raleway',sans-serif;
+	font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+	margin: 0 0 24px;
+
+ }
+ body {
+    background-image: url(../images/113868492.jpg);
+}
+
+h3 { color: #111;
+	font-family: 'Open Sans', sans-serif;
+	 font-size: 30px;
+	 font-weight: 300;
+	line-height: 32px;
+	margin: 0 0 72px;
+	text-align: center;
+ text-decoration: underline;
+ border-style: solid;
+ border-color:#f9d961;
+  box-shadow: 2px 2px;
+}
+
+p,li,h1 {
+  color: black;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+html {
+  background-color: #3b5998;
+background-image: url(../images/binaries.jpg);
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #8b9dc3;
+  padding: 0 30px 30px 30px;
+	margin-top: 10px;
+	border-style: solid;
+	border-width: 10px;
+	border-color:#744a20;
+	border-style: double;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	 border-image-slice: 30%;
+	 height: 250px;
+   width: 600px;
+}
+#button {
+	background-color:#000000
+	width : 80px;
+	padding: 20px;
+	margin: 0 auto;
+}
+#button:hover{
+	background-color: #fffa86;
+	curver: pointer;
+}
